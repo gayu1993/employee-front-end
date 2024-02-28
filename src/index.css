@@ -1,0 +1,230 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+}
+
+body{
+  background:url() ;
+font-family:'poppins','san-serif';
+
+}
+/* image log- */
+.logostyle1{
+height: 75px;
+    width: 100px;
+    margin: 0 0 0 155px;
+}
+
+.logostyle{
+  height: 75px;
+      width: 100px;
+      margin: 0 0 0 1px;
+  }
+  /* footerstyle */
+  .footerborder{
+    height:250px;
+    width:1350px;
+  background: #D6D6D6;
+  margin :600px 0px 0px 0px;
+  }
+/* forgot button */
+.click{
+  float:right;
+  margin: -23px 5px 0 0;
+}
+/* sign in style-login */
+.buttonstyle{
+  width: 90px;
+    height: 40px;
+    margin: 35px 0px 0px 160px;
+    padding: 5px 10px 0px 20px;
+}
+.divemail{
+  width: 75%;
+    margin: 15px 0px 0px 50px;
+  
+}
+.pagelogin{
+  padding:25px 0px 10px 165px;
+}
+
+.loginborder{
+margin: 50px 0px 10px 480px;
+width: 455px;
+height: 525px;
+flex-shrink: 0;
+border-radius: 10px;
+border: 2px solid #000;
+background: #EAF5E5;
+align-items: center;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+/* .remember1{add css style
+
+} */
+ 
+.employeedetail1{
+  width: 288px;
+height: 279px;
+flex-shrink: 0;
+}
+.form{
+  width:24%;
+  background-color:lightblue; 
+  border-radius:20px;
+  margin-top:100px;
+}
+
+
+/* home page--start here
+ /* border*/
+ /* nav bar border */
+ .button1{
+  width: 95px;
+  margin: 35px 0px 0px 155px;
+  padding: 10px 0px 0px 0px;
+  height: 45px;
+  
+}
+
+ .homepageborder{
+  width: 1365px;
+  height: 75px;
+  flex-shrink: 0;
+  background: #D6D6D6;
+}
+
+/* .titlelogo{
+  width: 105px;
+    height: 76px;
+    
+} */
+/* right side nav */
+.navlog{
+  margin:-36px 0px 0px 0px;
+color: white;
+text-align: right;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+/* right side text color */
+.aboutemp{
+  color: #FFF;
+}
+/* .container{
+  height:455px;
+  width:400px;
+} */
+.employee details{
+  width: 133px;
+height: 119px;
+flex-shrink: 0;
+background: #D9D9D9;
+    padding: 0px 5px 0px 10px;
+    margin: 60px 0px 0 10px;
+}
+.employeeline{
+  width: 210px;
+    height: 220px;
+    padding: 40px 0px 0px 10px;
+    margin: 110px 0px 0px 65px;
+    border: 2px solid black;
+}
+
+.card-img-top{
+  width: 90px;
+  height: 80px;
+  margin: 0px 0px 5px 50px;
+  /* border: 2px solid grey; */
+}
+/* table style */
+
+.headerdata{
+  border-top: 1px solid #B9B9B9;
+  border-left: 1px solid #B9B9B9;
+  background: rgba(0, 0, 0, 0.06);
+  }
+
+
+  .headerdata > tr > th {
+    border-top: 1px solid #B9B9B9;
+    border-left: 1px solid #B9B9B9;
+    border-bottom: 1px solid #B9B9B9;
+    border-right: 1px solid #B9B9B9;
+    background: rgba(0, 0, 0, 0.06);
+    }
+    /* edit delete button style by bootstrap in html */
+   /* search employee style */
+   .searchemp{
+   height: 30px;
+   width: 200px;
+   }
+   /* add employee/search style */
+   .addemploy{
+   margin: 0 0 0 880px;
+   }
+   /* style addemployee */
+   .addemployeeborder{
+    margin: 25px 0px 5px 425px;
+    padding: 5px 0px 0px 0px;
+    width: 600px;
+    height: 455px;
+  flex-shrink: 0;
+border-radius: 10px;
+border: 2px solid #000;
+background: #FFFFFF;
+align-items: center;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+   .addinfo{
+    padding: 25px 0 0 190px;
+
+   }
+   /* .addemp{
+   height: 35px;
+    width: 85px;
+    margin: 10px 0 0 225px;
+       }
+       .addemp1{
+        height:35px;
+        width:85px;
+       margin: 10px 0 0 225px;
+       } */
+
+      
+
+       .floatright
+        {
+          padding: 5px 5px 5px 1px;
+          margin: 0px 30px 0px 0px;
+          width: 65px;
+          height: 40px;
+        float:right;
+       }
+       .floatright1{
+        float:right;
+        margin: 0 25px 0px 0;
+       }
+       .form control{    
+    float: right;
+    height: 37px;
+    width: 50px;
+    padding: 5px 0px 0px 5px;
+    margin: -54px 0 5px 300px;
+      }
+      .h4{
+        margin: 5px 0px 0px 145px;
+      }
+      /* search -add employee */
+      .searchproject{
+        height: 125px;
+        width: 200px;
+        margin: 0px 0 0 815px;
+        }
+       
+       
