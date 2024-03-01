@@ -21,6 +21,15 @@ height: 75px;
       width: 100px;
       margin: 0 0 0 1px;
   }
+
+  /* card style */
+  .card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 287px;
+    width: 270px;
+    border: black;
+    margin: 82px 0 0 100px;
+  }
   /* footerstyle */
   .footerborder{
     height:250px;

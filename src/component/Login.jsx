@@ -58,7 +58,7 @@ const Login = (props)=>{
         'Access-Control-Allow-Credentials' : 'true'
 
       },
-      body: JSON.stringify(Employeedetails)
+      // body: JSON.stringify(Employeedetails)
   })
   .then((r)=> r.json())
   .then((r)=> { 

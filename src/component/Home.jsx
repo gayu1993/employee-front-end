@@ -3,7 +3,7 @@
 
 import React from 'react'
 import companylogo from '../assets/companylogo.png'
-import Employeedetails from './Employeedetails';
+import Cards from './Cards';
 
 function Home ()  {
 
@@ -14,7 +14,7 @@ function Home ()  {
     <img className='logostyle' src={companylogo}alt="covertechlogo"/>
     <div className="container">
        <div className="row">
-       <Employeedetails />
+       <Cards/>
        </div>
        
   </div>
