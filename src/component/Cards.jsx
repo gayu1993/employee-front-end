@@ -13,7 +13,7 @@ function Cards() {
           <div className="card h-100">
             <img src="src/assets/employee details.png" className="card-img-top" alt="..." />
             <div className="card-body">
-              <Button variant="secondary">Employee Details</Button>{' '}
+              <Button variant="outline-secondary">Employee Details</Button>{' '}
             </div>
           </div>
         </div>
@@ -21,7 +21,7 @@ function Cards() {
           <div className="card h-100">
             <img src="src/assets/project details.png" className="card-img-top" alt="..." />
             <div className="card-body">
-            <Button variant="secondary">Project details</Button>{' '}
+            <Button variant="outline-secondary">Project details</Button>{' '}
             </div>
           </div>
         </div>
@@ -29,7 +29,7 @@ function Cards() {
           <div className="card h-100">
             <img src="src/assets/performance report.png" className="card-img-top" alt="..." />
             <div className="card-body">
-            <Button variant="secondary">Performance report</Button>{' '}
+            <Button variant="outline-secondary">Performance report</Button>{' '}
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@ function Cards() {
           <div className="card h-100">
             <img src="src/assets/my info.png" className="card-img-top" alt="..." />
             <div className="card-body">
-            <Button variant="secondary">My info</Button>{' '}
+            <Button variant="outline-secondary">My info</Button>{' '}
             </div>
           </div>
         </div>
