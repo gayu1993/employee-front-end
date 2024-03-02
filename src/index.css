@@ -30,12 +30,20 @@ height: 75px;
     border: black;
     margin: 82px 0 0 100px;
   }
-  /* footerstyle */
+  /* home page card style */
+  .card-img-top{
+    
+      width: 95px;
+      height: 75px;
+     margin: 15px 87px 9px 78px;
+    
+    }
+  
   .footerborder{
     height:250px;
     width:1350px;
   background: #D6D6D6;
-  margin :600px 0px 0px 0px;
+  margin :620px 0px 0px 0px;
   }
 /* forgot button */
 .click{
@@ -144,12 +152,7 @@ background: #D9D9D9;
     border: 2px solid black;
 }
 
-.card-img-top{
-  width: 90px;
-  height: 80px;
-  margin: 0px 0px 5px 50px;
-  /* border: 2px solid grey; */
-}
+
 /* table style */
 
 .headerdata{
