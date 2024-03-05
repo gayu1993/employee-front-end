@@ -63,8 +63,10 @@ height: 75px;
     margin: 15px 0px 0px 50px;
   
 }
+/* login page style */
 .pagelogin{
-  padding:25px 0px 10px 165px;
+  padding: 25px 0px 15px 165px;
+    margin: 5px 135px 5px -40px
 }
 
 .loginborder{

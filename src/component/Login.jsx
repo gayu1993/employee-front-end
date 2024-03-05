@@ -108,12 +108,7 @@ const Login = (props)=>{
       
       </div>
       <div>
-      <div className="form-check mb-3">
-                <input className="form-check-input" type="checkbox" value="" id="rememberPasswordCheck"></input>
-                <label className="form-check-label" >
-                  Remember password
-                </label>
-              </div>
+      
               <div>
         <span className="psw click">Forgot <a href="#">password?</a></span>
       </div>

@@ -1,9 +1,10 @@
 
 import React from 'react';
 import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+// import Card from 'react-bootstrap/Card';
 // In your main JavaScript file (e.g., index.js or App.jsx)
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function Cards() {
   return (
